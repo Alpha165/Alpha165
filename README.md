@@ -7,9 +7,8 @@
 
 - 🌱 I’m currently learning **PHP and React**
 
-- 📫 How to reach me **my discord Alpha_#0524**
+- 📫 How to reach me **on discord Alpha_#0524**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
