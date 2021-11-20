@@ -1,6 +1,7 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alpha165&label=Profile%20views&color=0e75b6&style=flat-square" alt="alpha165" /> </p>
+
 <h1 align="center">Hi 👋, I'm Alpha</h1>
 <h3 align="center">A developer from Scotland</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alpha165&label=Profile%20views&color=0e75b6&style=flat" alt="alpha165" /> </p>
 
 - 🔭 I’m currently working on **Corruption Selfbot**
 
