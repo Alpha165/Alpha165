@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Corruption Selfbot**
 
-- 🌱 I’m currently learning **PHP, React**
+- 🌱 I’m currently learning **PHP and React**
 
 - 📫 How to reach me **my discord Alpha_#0524**
 
