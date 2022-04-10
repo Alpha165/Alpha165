@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Alpha</h1>
 <h3 align="center">A developer from Scotland</h3>
 
-- 🔭 I’m currently working on **Corruption Selfbot**
+- 🔭 I’m currently working on **Spam Bot**
 
 - 🌱 I’m currently learning **PHP and React**
 
